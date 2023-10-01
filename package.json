@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react-clone",
+  "version": "1.0.0",
+  "description": "Namaste React Clone",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohit2991/namaste-react-clone.git"
+  },
+  "author": "Mohit Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohit2991/namaste-react-clone/issues"
+  },
+  "homepage": "https://github.com/mohit2991/namaste-react-clone#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2"
+  }
+}
